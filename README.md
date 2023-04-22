@@ -48,7 +48,7 @@ In der Datei _web23dok.py_ befindet sich am Schluss der Eintrag für die Textdat
 
 ## Beispiele
 
-Unter [dok.erasand](hhttps://dok.erasand.ch/) sind meine sandDOK Web Dokumente abgelegt.
+Unter [dok.erasand](https://dok.erasand.ch/) sind meine sandDOK Web Dokumente abgelegt.
 
 ----------------
 
