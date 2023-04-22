@@ -46,6 +46,10 @@ Die 3 Python Scripte _web23dok.py_, _web23data.py_ und _web23input.py_ müssen s
 
 In der Datei _web23dok.py_ befindet sich am Schluss der Eintrag für die Textdatei: `obImp.txFilePath = "sandDOK/Template/index.txt"`. Hier wird die Textdatei angegeben, in unserem Fall ist es _sandDOK/Template/index.txt_. Nach Ausführung von _web23dok.py_ wird das Webdokument erstellt.
 
+## Beispiele
+
+Unter [dok.erasand](hhttps://dok.erasand.ch/) sind meine sandDOK Web Dokumente abgelegt.
+
 ******
 
 Andreas Ulrich, 22. April 2023
