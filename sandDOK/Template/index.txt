@@ -1,0 +1,113 @@
+﻿
+DOCU
+tabt	Template
+tit1	Web23
+tit2	Document
+tit3	Template
+file	index.html
+home	erasand	https://www.erasand.ch
+----
+
+CHAP
+titl	First
+nvid	1st
+----
+
+ADDR
+titl	Creator
+list	Andreas Ulrich	Artherstrasse 13	6300 Zug
+----
+
+LINK
+titl	Links
+txur	www.erasand.ch	https://www.erasand.ch
+txur	andreas@erasand.ch	mailto:andreas@erasand.ch
+----
+====
+
+CHAP
+titl	Second
+nvid	2nd
+----
+
+LIST
+titl	Unordered List / Available content types
+ltyp	ul
+list	ADDRESS	LINKS		LIST	NAVBAR	TABLE	TEXT
+----
+
+LIST
+titl	Ordered List / Availabe structure types
+ltyp	ol
+list	DOCU	CHAP	----	====
+----
+
+TABL
+titl	Python scripts
+head	Name			Description
+cell	web23doc.py		Html code generator
+cell	web23data.py	Data objects for content
+cell	web23input.py	Parser for text documents
+----
+====
+
+PARA
+----
+
+TEXT
+titl	
+text	Andreas Ulrich
+----
+
+TEXT
+titl	
+text	Artherstrasse 13
+----
+
+TEXT
+titl	
+text	6300 Zug
+----
+
+TEXT
+titl	
+text	079 400 64 56
+----
+
+TEXT
+titl	
+text	andreas@erasand.ch
+----
+====
+
+
+CHAP
+titl	Third
+nvid	3rd
+----
+
+TEXT
+titl	Text content
+text	Paragraph 1		Paragraph 2
+text	Paragraph 3
+text	Paragraph 4		Paragraph 5
+----
+
+NAVB
+urid	Text content
+home	erasand	https://www.erasand.ch
+navl	Python	https://www.python.org
+navl	Bootstrap	https://getbootstrap.com/
+----
+
+IMAG
+imag	http://dok.erasand.ch/Template/earth.jpg
+text	Our Planet
+----
+
+TEXT
+titl	Autor
+text	Andreas Ulrich, 17. April 2023
+----
+====
+

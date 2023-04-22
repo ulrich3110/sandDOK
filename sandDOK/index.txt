@@ -1,0 +1,40 @@
+﻿
+DOCU
+tabt	sandDOK
+tit1	sandDOK
+tit2	Dokumente
+tit3	erasand
+file	index.html
+home	erasand	https://erasand.ch
+----
+
+CHAP
+titl	Inhalt
+nvid	inha
+----
+
+LINK
+titl	Dokumente
+txur	Digitale Zwilling				https://dok.erasand.ch/BDTe
+txur	BIM Projekt Da Rafmi			https://dok.erasand.ch/DaRafmi
+txur	Python Programme dateiSTRUKTUR	https://dok.erasand.ch/DateiStruktur
+txur	Vorlage für sandDOK				https://dok.erasand.ch/Template
+----
+
+TEXT
+titl	sandDOK
+text	In Verbindung mit Bootstrap bietet HTML-Dokumente eine noch größere Vielseitigkeit und Flexibilität. Bootstrap ist ein leistungsstarkes Framework, das es einfach macht, ansprechende und benutzerfreundliche Webseiten und Anwendungen zu erstellen. Mit Bootstrap können Sie schnell und einfach Ihre Dokumente in ein ansprechendes Layout integrieren, das auf jedem Gerät und jeder Bildschirmgröße optimal dargestellt wird.
+
+text	Darüber hinaus ist Bootstrap mobilfreundlich, was bedeutet, dass Ihre Dokumente auf allen mobilen Geräten optimal angezeigt werden. Dies ist von Vorteil, da immer mehr Menschen ihr Smartphone oder Tablet nutzen, um auf Dokumente zuzugreifen und diese zu bearbeiten.
+----
+====
+
+PARA
+----
+
+TEXT
+titl	Autor
+text	Andreas Ulrich, 22. April 2023
+----
+====
+
