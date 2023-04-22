@@ -50,6 +50,6 @@ In der Datei _web23dok.py_ befindet sich am Schluss der Eintrag für die Textdat
 
 Unter [dok.erasand](hhttps://dok.erasand.ch/) sind meine sandDOK Web Dokumente abgelegt.
 
-******
+----------------
 
 Andreas Ulrich, 22. April 2023
